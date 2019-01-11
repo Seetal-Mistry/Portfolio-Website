@@ -162,3 +162,13 @@ body {
 .demo:hover {
   opacity: 1;
 }
+.center{
+  margin: 0 auto;
+  width: 500px;
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+}
